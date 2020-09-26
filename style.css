@@ -1,0 +1,13 @@
+body {
+   background-color: #000;
+}
+#site_wrapper {
+   position: relative;
+}
+
+#video-bg {
+   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+}
